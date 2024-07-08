@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GabrielCarp7.GabrielCarp7" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Gabriel!;" />
 </h1>
@@ -10,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I am currently working on **a eCommerce Website**
+ 🔭 I am currently working on **an eCommerce Website**
  
- 🌱 I’m currently learning **PyTorch, Node.js, AWS**
+ 🌱 I am currently learning **PyTorch, Node.js, AWS**
 
 </div>
 
@@ -36,14 +34,6 @@
 
 <br/>
 <hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-
-<br/>
-  <img width=325 align="center" src="https://github-readme-stats-GabrielCarp7.vercel.app/api/top-langs/?username=GabrielCarp7&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
 
 <br/><br/>
 
