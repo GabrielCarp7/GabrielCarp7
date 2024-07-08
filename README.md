@@ -1,8 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GabrielCarp7.GabrielCarp7" />
 
 <div align="center">
-    <h1>Hello There! 👋</h1>
-    <h2>My name is Gabriel</h2>
+    <h1>Hello There!👋 My name is Gabriel</h1>
 </div>
 
 <h3 align="center">A passionate junior software developer based in United Kingdom 🇬🇧</h3>
@@ -41,11 +40,7 @@
 
 <hr/>
 
-<h3 align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You+For+Visiting!;" />
-    </a>
-</h3>
+<h3 align="center">Thank You For Visiting!</h3>
 
 <br/>
 
