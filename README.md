@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=GabrielCarp7.GabrielCarp7" />
 
 <div align="center">
-    <h1>Hello There!👋 My name is Gabriel</h1>
+    <h1>Hello There!👋 My name is Gabriel,</h1>
 </div>
 
 <h3 align="center">A passionate junior software developer based in United Kingdom 🇬🇧</h3>
